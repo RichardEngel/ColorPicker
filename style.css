@@ -1,0 +1,21 @@
+
+article {
+    text-align: center;
+}
+h1{
+    background-color: #222222;
+    color: white;
+    font-size: 36px;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+}
+
+button{
+    background: none;
+    font-size: 24px;
+    margin-top: 50px;
+}
